@@ -1,0 +1,19 @@
+.nav-style{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.nav-style li{
+    list-style-type: none;
+    padding: 10px;
+}
+
+.nav-style a{
+    text-decoration: none;
+    color:black
+}
+
+.nav-style a:hover{
+    text-decoration: underline;
+}
